@@ -1,3 +1,4 @@
+#Sanjida
 import wmi
 import time
 
